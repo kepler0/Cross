@@ -10,3 +10,4 @@ Cross-programmed. Cross-bred mobs.
 - JRuby
 - Jython
 - Rhino
+- Kotlin
