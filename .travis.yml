@@ -1,0 +1,14 @@
+language: java
+
+jdk:
+  - oraclejdk7
+  - openjdk7
+  - openjdk6
+  
+env:
+  - TERM=dumb
+
+install:
+  - ./gradlew setupCIWorkspace
+
+after_success: ./gradlew cobertura coveralls
