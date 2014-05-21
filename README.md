@@ -9,4 +9,4 @@ Honestly, the JVM is a great platform. However, there is currently this dead loc
 
 ### (Technically) What's the point?
 
-Ah, I see. You want to know what the technical aspects of this project are. Well, it's simple really. This project will support everything [G-EJVML](https://github.com/k2b6s9j/G-EJVML) has to offer.
+Ah, I see. You want to know what the technical aspects of this project are. Well, it's simple really. This project will support everything [G-EL](https://github.com/k2b6s9j/G-EL) has to offer.
